@@ -12,5 +12,7 @@ def main():
     elif choice == 'Machine Learning':
         #st.subheader('Welcome to Our Machine Learning')
         run_ml_text_app()
+
+        
 if __name__ == '__main__':
     main()
